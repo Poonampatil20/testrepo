@@ -1,0 +1,104 @@
+20210222:205907 INFO  p=9704 fetch_barenecessities.pl starting
+20210222:205907 INFO  p=9704 Moving old data to garbage directory
+20210222:205908 INFO  p=9704 removing ../../../../data/result/barenecessities
+20210222:205908 INFO  p=9704 removing ../../../../data/item/barenecessities
+20210222:205908 DEBUG p=9704 Filename: ../../../../data/result/barenecessities/barenecessities__home__1614007748.gz
+20210222:205908 INFO  p=9704 Fetching https://www.barenecessities.com/
+$VAR1 = ' data-dropdown data-hover="true" data-hover-pane="true" data-alignment="bottom" data-position="bottom" data-v-offset="0" class="dropdown-pane full content mega mega-dropdown" aria-hidden="true" aria-autoclose="false">
+	<div class="grid-container mega-container">
+        
+			</div>
+			<div class="cell mega-dropdown-main-li">
+				<div class="grid-x grid-padding-x small-up-1 mega-lists">
+					<div class="cell drpdwnColumnHead">Top Styles</div>
+					<div class="cell"><a href="/Sports-Bras-Bras_catalog_nxs,31,style,12064.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Sports_Bras" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Sports_Bras\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Sports_Bras\', \'event_category\':\'mm,Bras,Styles\'});"title="Sports Bras">Sports Bras</a></div>
+					<div class="cell"><a href="/Bralettes-Bras_catalog_nxs,31,style,79.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Bralettes" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Bralettes\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Bralettes\', \'event_category\':\'mm,Bras,Styles\'});"title="Bralettes">Bralettes</a></div>
+					<div class="cell"><a href="/T-Shirt-Bras-Bras_catalog_nxs,31,style,130.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-T-Shirt_Bras" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'T-Shirt_Bras\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'T-Shirt_Bras\', \'event_category\':\'mm,Bras,Styles\'});"title="T-Shirt Bras">T-Shirt Bras</a></div>
+					<div class="cell"><a href="/Underwire-Bras_catalog_nxs,31,style,44.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Underwire" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Underwire\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Underwire\', \'event_category\':\'mm,Bras,Styles\'});"title="Underwire">Underwire</a></div>
+					<div class="cell"><a href="/Wire-Free-Bras_catalog_nxs,31,style,65.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Wire-Free" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Wire-Free\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Wire-Free\', \'event_category\':\'mm,Bras,Styles\'});"title="Wire-Free">Wire-Free</a></div>
+					<div class="cell"><a href="/Minimizer-Bras-Bras_catalog_nxs,31,style,61.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Minimizer" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Minimizer\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Minimizer\', \'event_category\':\'mm,Bras,Styles\'});"title="Minimizer">Minimizer</a></div>
+					<div class="cell"><a href="/Nursing--Maternity-Bras-Bras_catalog_nxs,31,style,12.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Nursing_N_Maternity" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Nursing_N_Maternity\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Nursing_N_Maternity\', \'event_category\':\'mm,Bras,Styles\'});"title="Nursing & Maternity">Nursing & Maternity</a></div>
+				</div>
+			</div>
+			<div class="cell mega-dropdown-main-li">
+				<div class="grid-x grid-padding-x small-up-1 mega-lists">
+					<div class="cell emptDrpdwnColumnHead">&nbsp;</div>
+					<div class="cell"><a href="/Strapless-Bras-Bras_catalog_nxs,31,style,11.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Strapless" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Strapless\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Strapless\', \'event_category\':\'mm,Bras,Styles\'});"title="Strapless">Strapless</a></div>
+					<div class="cell"><a href="/Racerback-Bras-Bras_catalog_nxs,31,style,92.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Racerback" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Racerback\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Racerback\', \'event_category\':\'mm,Bras,Styles\'});"title="Racerback">Racerback</a></div>
+					<div class="cell"><a href="/Push-Up-Bras-Bras_catalog_nxs,31,style,62.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Push-up" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Push-up\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Push-up\', \'event_category\':\'mm,Bras,Styles\'});"title="Push-Up">Push-Up</a></div>
+					<div class="cell"><a href="/Front-Close-Bras-Bras_catalog_nxs,31,style,34.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Front_Close" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Front_Close\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Front_Close\', \'event_category\':\'mm,Bras,Styles\'});"title="Front Close">Front Close</a></div>
+					<div class="cell"><a href="/Backless-Bras-Bras_catalog_nxs,31,style,3.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Backless" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Backless\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Backless\', \'event_category\':\'mm,Bras,Styles\'});"title="Backless">Backless</a></div>
+					<div class="cell"><a href="/Padded-Bras-Bras_catalog_nxs,31,style,66.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Padded" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Padded\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Padded\', \'event_category\':\'mm,Bras,Styles\'});"title="Padded">Padded</a></div>
+					<div class="cell"><a href="/Long-Line-Bras_catalog_nxs,31,style,81.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Longline" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Longline\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Longline\', \'event_category\':\'mm,Bras,Styles\'});"title="Longline">Longline</a></div>
+<!--
+<div class="cell"><a href="/Demi-Cup-Bras-Bras_catalog_nxs,31,style,60.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-Demi_Cup" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Demi_Cup\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'Demi_Cup\', \'event_category\':\'mm,Bras,Styles\'});" title="Demi Cup">Demi Cup</a></div> -->
+				</div>
+			</div>
+			<div class="cell mega-dropdown-main-li">
+				<div class="grid-x grid-padding-x small-up-1 mega-lists">
+					<div class="cell emptDrpdwnColumnHead">&nbsp;</div>
+					<div class="cell"><a href="/Balconette-Bras-Bras_catalog_nxs,31,style,67988.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-balconette" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'balconette\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'balconette\', \'event_category\':\'mm,Bras,Styles\'});" title="Balconette" >Balconette</a></div>
+					<div class="cell"><a href="/search.aspx?search=contemp1396&drv=4294961468&msg=Contemporary+Bras" manual_cm_sp="mm,Bras,desktop-_-Styles-_-contemp" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'contemp\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'contemp\', \'event_category\':\'mm,Bras,Styles\'});"title="Contemporary">Contemporary</a></div>
+					<div class="cell"><a href="/Plunge-Bras-Bras_catalog_nxs,31,style,12042.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-plunge" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'plunge\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'plunge\', \'event_category\':\'mm,Bras,Styles\'});"title="Plunge">Plunge</a></div>
+					<div class="cell"><a href="/Convertible-Bras-Bras_catalog_nxs,31,style,12041.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-convertible" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'convertible\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'convertible\', \'event_category\':\'mm,Bras,Styles\'});"title="Convertible">Convertible</a></div>
+					<div class="cell"><a href="/Back-Smoothing-Bras-Bras_catalog_nxs,31,style,70606.htm" manual_cm_sp="mm,Bras,desktop-_-Styles-_-backsmoothing" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'backsmoothing\',  name: \'mm,Bras,Styles\'}], \'event_label\':\'backsmoothing\', \'event_category\':\'mm,Bras,Styles\'});" title="Back Smoothing">Back Smoothing</a></div>
+					<div class="cell"><a href="/Bras_catalog_nxs,31.htm" manual_cm_sp="mm,Bras,desktop-_-styles-_-viewall" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'viewall\',  name: \'mm,Bras,styles\'}], \'event_label\':\'viewall\', \'event_category\':\'mm,Bras,styles\'});"title="view all"><strong>View All</strong></a></div>
+				</div>
+			</div>
+			<div class="cell mega-dropdown-main-li">
+				<div class="grid-x grid-padding-x small-up-1 mega-lists">
+					<div class="cell drpdwnColumnHead">Brands We <span>&nbsp;<img style="max-width: 13px; max-height: 13px; vertical-align: baseline;" src="https://as.static-barenecessities.com/imgfp/ver/006/img/dcm/2017/wk36/glyphicons-13-heart.png" /></span></div>
+					<div class="cell"><a href="/Wacoal-Bras_catalog_nxs,31,vendor,820.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Wacoal" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Wacoal\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Wacoal\', \'event_category\':\'mm,Bras,brands\'});"title="Wacoal">Wacoal</a></div>
+					
+<div class="cell"><a href="/Birdsong-Bras_catalog_nxs,31,vendor,138023.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Birdsong" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Birdsong\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Birdsong\', \'event_category\':\'mm,Bras,brands\'});"title="Birdsong">Birdsong</a></div>
+
+
+					<div class="cell"><a href="/Natori-Bras_catalog_nxs,31,vendor,8923.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Natori" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Natori\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Natori\', \'event_category\':\'mm,Bras,brands\'});"title="Natori">Natori</a></div> 
+
+
+					<!-- <div class="cell"><a href="/Glamorise-Bras_catalog_nxs,31,vendor,752.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Glamorise" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'glamorise\',  name: \'mm,Bras,brands\'}], \'event_label\':\'glamorise\', \'event_category\':\'mm,Bras,brands\'});"title="Glamorise">Glamorise</a></div> -->
+					<div class="cell"><a href="/Freya-Bras_catalog_nxs,31,vendor,750.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Freya" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Freya\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Freya\', \'event_category\':\'mm,Bras,brands\'});"title="Freya">Freya</a></div>
+					<div class="cell"><a href="/Elomi-Bras_catalog_nxs,31,vendor,23797.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-Elomi" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Elomi\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Elomi\', \'event_category\':\'mm,Bras,brands\'});"title="Elomi">Elomi</a></div>
+		<div class="cell"><a href="/Glamorise-Bras_catalog_nxs,31,vendor,752.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-glamorise" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'glamorise\',  name: \'mm,Bras,brands\'}], \'event_label\':\'glamorise\', \'event_category\':\'mm,Bras,brands\'});"title="Glamorise">Glamorise</a></div> 
+			
+<!-- <div class="cell"><a href="/Glamorise-Bras_catalog_nxs,31,vendor,752.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-glamorise" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'glamorise\',  name: \'mm,Bras,brands\'}], \'event_label\':\'glamorise\', \'event_category\':\'mm,Bras,brands\'});"title="Glamorise">Glamorise</a></div> -->
+					<div class="cell"><a href="/Panache-Bras_catalog_nxs,31,vendor,800.htm" manual_cm_sp="mm,Bras,desktop-_-brands-_-panache" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'Panache\',  name: \'mm,Bras,brands\'}], \'event_label\':\'Panache\', \'event_category\':\'mm,Bras,brands\'});"title="Panache">Panache</a></div>
+				</div>
+			</div>
+
+
+<div class="cell mega-dropdown-main-li">
+      <div class="grid-x grid-padding-x small-up-1 mega-lists">
+<!-- <div class="cell drpdwnColumnHead">PROMOTIONS</div>-->
+ <div class="cell" style="width:15rem; height:8rem;">
+<a href="/finder.aspx" manual_cm_sp="mm,Bras,desktop-_-stories-_-2880" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'2880\',  name: \'mm,Bras,stories\'}], \'event_label\':\'2880\', \'event_category\':\'mm,Bras,stories\'});"title="Bra Finder" ><img src="https://as.static-barenecessities.com/imgfp/ver/006/img/dcm/2020/megamenu/BRAFINDER.jpg" style="width:100%;">
+<div class="MMSTORIES1">BRA FINDER <span class="MMSTORIESARROW"></span></div>
+<!-- <div class="MMSTORIES2">SHOP NOW</div> -->
+</a>
+</div>
+<div style="padding-bottom:2rem;"></div>
+ <div class="cell" style="width:15rem; height:8rem;">
+<a href="/shop.aspx?PageType=shopping6&PageName=dd_PLUS_must_haves" manual_cm_sp="mm,Bras,desktop-_-stories-_-2653" onClick="gtag(\'event\', \'select_content\', {promotions: [{id: \'2653\',  name: \'mm,Bras,stories\'}], \'event_label\':\'2653\', \'event_category\':\'mm,Bras,stories\'});"title="DD+ Plus" ><img src="https://as.static-barenecessities.com/imgfp/ver/006/img/dcm/2020/megamenu/DDPLUS.jpg" style="width:100%;">
+<div class="MMSTORIES1">DD+ MUST HAVES <span class="MMSTORIESARROW"></span></div>
+</a>
+</div>
+  
+</div>
+</div>
+
+
+  </div>
+</div>
+</div>';
+20210222:205911 INFO  p=9704 fetch_barenecessities.pl finished
+20210222:205919 INFO  p=8684 parse_barenecessities.pl disney starting
+20210222:205919 INFO  p=8684 Running Pass 1
+20210222:205919 WARN  p=8684 Use of uninitialized value $retailer in concatenation (.) or string at C:/Perl64/site/lib/Crawl/Feed.pm line 1307.
+20210222:205919 INFO  p=8684 Retailer: ""
+20210222:205919 INFO  p=8684 Outcount : 0/0 MD5_HEX: c0fdcabe543cd30f1a56212421954c0d
+20210222:205919 INFO  p=8684 Output file: ../../../../data/feed/disney/disney.xml
+20210222:205919 WARN  p=8684 Missing argument in sprintf at C:/Perl64/site/lib/Crawl/Feed.pm line 1327.
+20210222:205919 WARN  p=8684 Odd number of elements in anonymous hash at C:/Perl64/site/lib/Crawl/Feed.pm line 1327.
+20210222:205919 INFO  p=8684 Crawl Failed
+20210222:205919 INFO  p=8684 Parser runtime(DD:HH::MM:SS)      : 00:00:00:08
+20210222:205920 INFO  p=9704 Script runtime(DD:HH::MM:SS)      : 00:00:00:17

@@ -1,0 +1,537 @@
+20201230:130548 INFO  p=9492 parse_jcrewfactory.pl jcrewfactory starting
+20201230:130611 WARN  p=9492 Use of uninitialized value $b in string eq at parse_jcrewfactory.pl line 196.
+20201230:130611 WARN  p=9492 Use of uninitialized value $b in pattern match (m//) at parse_jcrewfactory.pl line 197.
+20201230:130611 WARN  p=9492 Use of uninitialized value $b in pattern match (m//) at parse_jcrewfactory.pl line 198.
+20201230:130611 WARN  p=9492 Use of uninitialized value $b in pattern match (m//) at parse_jcrewfactory.pl line 199.
+20201230:130611 WARN  p=9492 Use of uninitialized value $b in pattern match (m//) at parse_jcrewfactory.pl line 200.
+20201230:130611 WARN  p=9492 Use of uninitialized value $bd[0] in join or string at parse_jcrewfactory.pl line 203.
+$VAR1 = 'BLACK<==>BK0001';
+$VAR1 = 'SHALE BLUE<==>BL6622';
+$VAR1 = 'NAVY<==>BL8133';
+$VAR1 = 'NEON FLAMINGO<==>PK5652';
+$VAR1 = 'WHITE<==>WT0002';
+$VAR1 = 'SUNSET GOLD<==>YL5510';
+$VAR1 = 'Cache-Control: max-age=0, no-cache, no-store
+Connection: close
+Date: Tue, 29 Dec 2020 00:59:38 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 51027
+Content-Type: text/html; charset=ISO-8859-1
+Expires: Tue, 29 Dec 2020 00:59:38 GMT
+Client-Date: Tue, 29 Dec 2020 00:59:38 GMT
+Client-Peer: 23.215.197.77:443
+Client-Response-Num: 1
+Client-SSL-Cert-Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+Client-SSL-Cert-Subject: /C=US/ST=New York/L=New York/O=J. Crew International Inc/OU=IT Department/CN=www.jcrew.com
+Client-SSL-Cipher: TLS_AES_256_GCM_SHA384
+Client-SSL-Socket-Class: IO::Socket::SSL
+Client-SSL-Warning: Peer certificate not verified
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=139
+Server-Timing: origin; dur=3364
+Set-Cookie: bmBrowserSalt=6fAGAy9a1EEZBcVqmNSUvRrmUCMGuCoe; Max-Age=31449600; Path=/; Version=1; HttpOnly
+Set-Cookie: ADRUM_BT1=R:211|i:326333|e:450|d:123; expires=Thursday, 01-Jan-1970 01:00:00 GMT; path=/
+Set-Cookie: ADRUM_BTa=R:211|g:94d15839-e586-47f2-92b8-062e9ccc0aa0|n:jcrewtrial19_9b462d4c-8482-4b96-aa72-3a9e8db7fca1; expires=Thursday, 01-Jan-1970 01:00:00 GMT; path=/
+Set-Cookie: ADRUM_BTa=R:184|g:707eed34-1090-4598-91f8-7a82d2cb8596; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: ADRUM_BTa=R:184|g:707eed34-1090-4598-91f8-7a82d2cb8596|n:jcrewtrial19_9b462d4c-8482-4b96-aa72-3a9e8db7fca1; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: ADRUM_BT1=R:184|i:326333; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: ADRUM_BT1=R:184|i:326333|e:450; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: ADRUM_BTs=R:184|s:p; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: ADRUM_BT1=R:184|i:326333|e:450|d:3091; expires=Tuesday, 29-Dec-2020 01:00:08 GMT; path=/
+Set-Cookie: visid_incap_1878140=SJeOiTwCSN2TDnPtBx9XfXp/6l8AAAAAQUIPAAAAAADPPP6Nl5aHWKHGLNLGN/FZ; expires=Tue, 28 Dec 2021 17:25:41 GMT; HttpOnly; path=/; Domain=.digital.jcrew.com
+Set-Cookie: incap_ses_876_1878140=3XkRAOHRp0oJvKpxkS0oDHp/6l8AAAAA1CdAEW+EZGeJbn9Zmzsgag==; path=/; Domain=.digital.jcrew.com
+Set-Cookie: akavpau_www_jcrew_VP=1609203878~id=251fb5c8d8c96bbf701bc8b996fccf68; Path=/; Secure; SameSite=None
+Set-Cookie: bm_sv=28F2711A550E3CCBDCF4CEF946587935~XOT3A9wT2sxDwbHQSyLf0HdcLKmMoDAETrTJQyQAd/trzlaqVmIRJQC0dYHIUgm2pEg5Ux9R1xrxXhm/BHuRTnmXoX6Ku/12YgDM8wos2Fwlv14K44YcCXitTx5hcO7VhoM8x6j8QZAWpoEKkPmSEz3rjxF0lCS072EfR2Y/imE=; Domain=.jcrew.com; Path=/; Max-Age=4285; HttpOnly
+Strict-Transport-Security: max-age=31536000
+X-Akamai-Transformed: 9 3674 0 pmb=mTOE,1mRUM,2
+X-CDN: Incapsula
+X-Content-Length: 3223
+X-Frame-Options: SAMEORIGIN
+X-Iinfo: 4-93522101-93680340 SNNy RT(1609201191793 2383396) q(0 0 0 -1) r(34 34) U5
+X-Powered-By: Servlet/2.5 JSP/2.1
+URL: https://www.jcrew.com/browse2/ajax/product_details_ajax.jsp?sRequestedURL=https://factory.jcrew.com/p/womens_clothing/new_arrivals/shorts/35-classic-chino-short/H5616.jsp&prodCode=H5616
+
+<script>
+    window.getJcrewNameSpaceLegacy(\'globalObj.jcrew.browse.fullscreen\')
+    globalObj.jcrew.browse.fullscreen.products = globalObj.jcrew.browse.fullscreen.products || [{
+        images : []
+    }]
+    globalObj.jcrew.browse.fullscreen.products[0].productName = \'3.5" classic chino short\' 
+</script>
+
+
+    
+    
+        
+            
+            
+                
+                    
+                    
+                        
+                            
+
+                                <section id="description" class="description">
+                                    <span class="item-num">item H5616</span>
+                                     
+                                    
+                                    
+                                         
+                                         
+                                           <div class="full-price">
+                                                 
+                                                 
+                                                 <span class="notranslate price-soldout">INR 4012.00</span>
+                                                 
+                                                     <span class="selected-color">
+                                                         
+                                                            
+                                                            now
+                                                            
+                                                         
+                                                         <span class="selected-color-price notranslate">INR 2285.00</span>
+                                                     </span>
+                                                 
+                                                 
+                                                 
+
+                                           </div>
+                                           
+                                           
+                                         
+                                        
+
+                                   
+                                </section>
+
+                                
+
+                                <div class="color-title">Color:
+                                    <span class="color-name">
+                                        
+                                            
+                                            
+                                                shale blue
+                                            
+                                        
+
+                                    </span>
+                                </div>
+
+                                <div id="priceWrapper0" class="price-wrapper">
+                                
+                                    
+                                        
+                                    
+                                   
+                                        
+                                            
+                                                <div class="product-detail-price sale-price first-item notranslate">
+                                                    INR 2285.00
+                                                </div>
+                                            
+                                        
+                                        
+                                  
+
+                                   <section id="color1" class="color-row last-row">
+                                       
+                                            
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                            
+                                            
+                                            
+                                                
+                                            
+                                          
+                                           <div class="color-box " data-color="YL5510" data-productcode="H5616" data-index="">
+                                                
+                                                <a id="YL5510">
+                                                    <img data-imgurl="https://www.jcrew.com/s7-img-facade/H5616_YL5510?$pdp_fs418$" src="https://www.jcrew.com/s7-img-facade/H5616_YL5510_sw?$pdp_sw20$" class="product-detail-images" data-productcode="H5616" data-index="" />
+                                                </a>
+                                            </div>
+                                            <script>
+                                                globalObj.jcrew.browse.fullscreen.products[0].images.push({
+                                                    type : \'color\',
+                                                    identifier : \'YL5510\',
+                                                    url : \'https://www.jcrew.com/s7-img-facade/H5616_YL5510?$pdp_enlarge$\',
+                                                    thumbUrl : \'https://www.jcrew.com/s7-img-facade/H5616_YL5510?$pdp_tn75$\'
+                                                })
+                                            </script>
+                                        
+                                            
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                            
+                                            
+                                            
+                                                
+                                            
+                                          
+                                           <div class="color-box " data-color="PK5652" data-productcode="H5616" data-index="">
+                                                
+                                                <a id="PK5652">
+                                                    <img data-imgurl="https://www.jcrew.com/s7-img-facade/H5616_PK5652?$pdp_fs418$" src="https://www.jcrew.com/s7-img-facade/H5616_PK5652_sw?$pdp_sw20$" class="product-detail-images" data-productcode="H5616" data-index="" />
+                                                </a>
+                                            </div>
+                                            <script>
+                                                globalObj.jcrew.browse.fullscreen.products[0].images.push({
+                                                    type : \'color\',
+                                                    identifier : \'PK5652\',
+                                                    url : \'https://www.jcrew.com/s7-img-facade/H5616_PK5652?$pdp_enlarge$\',
+                                                    thumbUrl : \'https://www.jcrew.com/s7-img-facade/H5616_PK5652?$pdp_tn75$\'
+                                                })
+                                            </script>
+                                        
+                                            
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                            
+                                            
+                                            
+                                                
+                                            
+                                          
+                                           <div class="color-box " data-color="BL8133" data-productcode="H5616" data-index="">
+                                                
+                                                <a id="BL8133">
+                                                    <img data-imgurl="https://www.jcrew.com/s7-img-facade/H5616_BL8133?$pdp_fs418$" src="https://www.jcrew.com/s7-img-facade/H5616_BL8133_sw?$pdp_sw20$" class="product-detail-images" data-productcode="H5616" data-index="" />
+                                                </a>
+                                            </div>
+                                            <script>
+                                                globalObj.jcrew.browse.fullscreen.products[0].images.push({
+                                                    type : \'color\',
+                                                    identifier : \'BL8133\',
+                                                    url : \'https://www.jcrew.com/s7-img-facade/H5616_BL8133?$pdp_enlarge$\',
+                                                    thumbUrl : \'https://www.jcrew.com/s7-img-facade/H5616_BL8133?$pdp_tn75$\'
+                                                })
+                                            </script>
+                                        
+                                            
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                            
+                                            
+                                          
+                                          
+                                            
+                                                
+                                                 
+                                                
+                                                
+                                                
+                                                
+                                            
+                                            
+                                            
+                                          
+                                           <div class="color-box selected" data-color="BL6622" data-productcode="H5616" data-index="">
+                                                
+                                                <a id="BL6622">
+                                                    <img data-imgurl="https://www.jcrew.com/s7-img-facade/H5616_BL6622?$pdp_fs418$" src="https://www.jcrew.com/s7-img-facade/H5616_BL6622_sw?$pdp_sw20$" class="product-detail-images" data-productcode="H5616" data-index="" />
+                                                </a>
+                                            </div>
+                                            <script>
+                                                globalObj.jcrew.browse.fullscreen.products[0].images.push({
+                                                    type : \'color\',
+                                                    identifier : \'BL6622\',
+                                                    url : \'https://www.jcrew.com/s7-img-facade/H5616_BL6622?$pdp_enlarge$\',
+                                                    thumbUrl : \'https://www.jcrew.com/s7-img-facade/H5616_BL6622?$pdp_tn75$\'
+                                                })
+                                            </script>
+                                        
+                                        <div class="clear"></div>
+                                    </section>
+                                    
+                                        
+                                            <hr class="last-row">
+                                        
+                                        
+                                    
+
+
+                                
+                                </div>
+                                <section id="sizes" class="sizes">
+                                    <header>
+                                        <h2>Size:</h2>
+                                         
+                                           <span><a class="product-details-sizechart" data-sizechart="1,1" href="javascript:void(0);">size charts</a></span>
+                                         
+                                        <div class="clear"></div>
+                                        
+                                    </header>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="00" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="00">
+                                                <span>00</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="0" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="0">
+                                                <span>0</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="2" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="2">
+                                                <span>2</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="4" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="4">
+                                                <span>4</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="6" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="6">
+                                                <span>6</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="8" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="8">
+                                                <span>8</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="10" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="10">
+                                                <span>10</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="12" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="12">
+                                                <span>12</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="14" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="14">
+                                                <span>14</span>
+                                            </a>
+                                        </div>
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        <div class="size-box   notranslate" data-size="16" data-productcode="H5616" data-index="">
+                                            
+                                            <a id="16">
+                                                <span>16</span>
+                                            </a>
+                                        </div>
+                                    
+                                </section>
+                                <div class="clear"></div>
+
+                                
+                                <hr>
+                                <section id="quantity" class="quantity">
+                                    <h2 class="quantity-header">Quantity:</h2>
+                                    <select id="selectBox" data-index="" class="select-box">
+                                        
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                        
+
+                                            <option value="1" >1</option>
+                                        
+
+                                            <option value="2" >2</option>
+                                        
+
+                                            <option value="3" >3</option>
+                                        
+
+                                            <option value="4" >4</option>
+                                        
+
+                                            <option value="5" >5</option>
+                                        
+
+                                            <option value="6" >6</option>
+                                        
+
+                                            <option value="7" >7</option>
+                                        
+
+                                            <option value="8" >8</option>
+                                        
+
+                                            <option value="9" >9</option>
+                                        
+                                    </select>
+                                    <div class="clear"></div>
+                                </section>
+                                <section id="messaging" class="messaging">
+                                    
+								   <!-- Not showing backordered and final sale message if sku is out of stock   -->
+                                   
+                                        
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                </section>
+                                <section id="actions" class="actions">
+
+                                        
+                                        
+                                </section>
+                            
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+<script>
+var productDetailsJSON = \'{"sizeset":[{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145046","skuLongId":1689949374651310,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 00","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848190","skuLongId":1689949373917497,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 00","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145003","skuLongId":1689949374651301,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 00","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848170","skuLongId":1689949373917488,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 00","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848160","skuLongId":1689949373917479,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 00","skuInventoryStatus":4}],"size":"00"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848189","skuLongId":1689949373917496,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 0","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145045","skuLongId":1689949374651309,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 0","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848159","skuLongId":1689949373917478,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 0","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145002","skuLongId":1689949374651300,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 0","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848169","skuLongId":1689949373917487,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 0","skuInventoryStatus":4}],"size":"0"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145050","skuLongId":1689949374651314,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 2","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145007","skuLongId":1689949374651305,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 2","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848194","skuLongId":1689949373917501,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 2","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848164","skuLongId":1689949373917483,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 2","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848174","skuLongId":1689949373917492,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 2","skuInventoryStatus":4}],"size":"2"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848175","skuLongId":1689949373917493,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 4","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145008","skuLongId":1689949374651306,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 4","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848165","skuLongId":1689949373917484,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 4","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145051","skuLongId":1689949374651315,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 4","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848195","skuLongId":1689949373917502,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 4","skuInventoryStatus":4}],"size":"4"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848196","skuLongId":1689949373917503,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 6","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848166","skuLongId":1689949373917485,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 6","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848176","skuLongId":1689949373917494,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 6","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145052","skuLongId":1689949374651316,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 6","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145009","skuLongId":1689949374651307,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 6","skuInventoryStatus":1}],"size":"6"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"sunset gold","currentPrice":"22.5","preordered":false,"skuCode":"99105792175","skuLongId":1689949374468849,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"YL5510","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. YL5510 8","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145053","skuLongId":1689949374651317,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 8","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145010","skuLongId":1689949374651308,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 8","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848197","skuLongId":1689949373917504,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 8","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848177","skuLongId":1689949373917495,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 8","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848167","skuLongId":1689949373917486,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 8","skuInventoryStatus":4}],"size":"8"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145047","skuLongId":1689949374651311,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 10","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848191","skuLongId":1689949373917498,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 10","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145004","skuLongId":1689949374651302,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 10","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848161","skuLongId":1689949373917480,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 10","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"sunset gold","currentPrice":"22.5","preordered":false,"skuCode":"99105792169","skuLongId":1689949374468843,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"YL5510","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. YL5510 10","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848171","skuLongId":1689949373917489,"podate":"","currentPriceLocal":"2285.00","inventory":5,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 10","skuInventoryStatus":1}],"size":"10"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848172","skuLongId":1689949373917490,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 12","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"sunset gold","currentPrice":"22.5","preordered":false,"skuCode":"99105792170","skuLongId":1689949374468844,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"YL5510","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. YL5510 12","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848192","skuLongId":1689949373917499,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 12","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848162","skuLongId":1689949373917481,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 12","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145005","skuLongId":1689949374651303,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 12","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145048","skuLongId":1689949374651312,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 12","skuInventoryStatus":1}],"size":"12"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99104848163","skuLongId":1689949373917482,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BK0001 14","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"sunset gold","currentPrice":"22.5","preordered":false,"skuCode":"99105792171","skuLongId":1689949374468845,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"YL5510","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. YL5510 14","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106145049","skuLongId":1689949374651313,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 14","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106145006","skuLongId":1689949374651304,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 14","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99104848193","skuLongId":1689949373917500,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO WT0002 14","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99104848173","skuLongId":1689949373917491,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"W-3.5 SOLID CHINO BL8133 14","skuInventoryStatus":4}],"size":"14"},{"colors":[{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"neon flamingo","currentPrice":"22.5","preordered":false,"skuCode":"99106183611","skuLongId":1689949374651423,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"PK5652","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. PK5652 16","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"black","currentPrice":"22.5","preordered":false,"skuCode":"99106183599","skuLongId":1689949374651419,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BK0001","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BK0001 16","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"navy","currentPrice":"22.5","preordered":false,"skuCode":"99106183601","skuLongId":1689949374651421,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"BL8133","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL8133 16","skuInventoryStatus":4},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":false,"colordisplayname":"shale blue","currentPrice":"22.5","preordered":false,"skuCode":"99106183600","skuLongId":1689949374651420,"podate":"","currentPriceLocal":"2285.00","inventory":9,"fullydomqty":false,"backordered":false,"colorlabel":"BL6622","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. BL6622 16","skuInventoryStatus":1},{"onlyFewLeft":false,"productCode":"H5616","fullPriceLocal":"4012.00","outofstock":true,"colordisplayname":"white","currentPrice":"22.5","preordered":false,"skuCode":"99106183614","skuLongId":1689949374651424,"podate":"","currentPriceLocal":"2285.00","inventory":0,"fullydomqty":false,"backordered":false,"colorlabel":"WT0002","fullPrice":"39.5","productName":"3.5 SOLID CHINO SHORT. WT0002 16","skuInventoryStatus":4}],"size":"16"}],"colorset":[{"sizes":[{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":5,"outofstock":false,"sizelabel":"10","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"12","backordered":false,"preordered":false}],"color":"BL8133","fullydomqty":false,"colordisplayname":"navy","backordered":false,"preordered":false,"finalsale":false},{"sizes":[{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"10","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"12","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"14","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"8","backordered":false,"preordered":false}],"color":"YL5510","fullydomqty":false,"colordisplayname":"sunset gold","backordered":false,"preordered":false,"finalsale":false},{"sizes":[{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"0","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"00","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"10","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"12","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"14","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"2","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"4","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"6","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"8","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"16","backordered":false,"preordered":false}],"color":"PK5652","fullydomqty":false,"colordisplayname":"neon flamingo","backordered":false,"preordered":false,"finalsale":false},{"sizes":[{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"0","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"00","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"10","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"12","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"14","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"2","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"4","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"6","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"8","backordered":false,"preordered":false},{"podate":"","onlyFewLeft":false,"fullydomqty":false,"inventory":9,"outofstock":false,"sizelabel":"16","backordered":false,"preordered":false}],"color":"BL6622","fullydomqty":false,"colordisplayname":"shale blue","backordered":false,"preordered":false,"finalsale":false}]}\';
+var imgSelectedColor = \'https://www.jcrew.com/s7-img-facade/H5616_BL6622?$pdp_fs418$\';
+var wishlistSize = \'0\';
+var wishlistIsDefaultList = \'false\';
+var editFlagAjax = \'false\';
+var editWishListFlagAjax = \'false\';
+var isSaleProduct = \'false\';
+var editDomRtlItem = \'false\';
+if(editDomRtlItem === \'true\') {
+	$(\'#monogram\' + \'\').hide();
+}
+</script>
+
+
+
+';
+20201230:130614 INFO  p=9492 Running Pass 1
+20201230:130615 WARN  p=9492 Use of uninitialized value $retailer in concatenation (.) or string at C:/Perl64/site/lib/Crawl/Feed.pm line 1307.
+20201230:130615 INFO  p=9492 Retailer: ""
+20201230:130615 INFO  p=9492 Outcount : 0/1 MD5_HEX: c0fdcabe543cd30f1a56212421954c0d
+20201230:130615 INFO  p=9492 Output file: ../../../../data/feed/jcrewfactory/jcrewfactory.xml
+20201230:130615 WARN  p=9492 Missing argument in sprintf at C:/Perl64/site/lib/Crawl/Feed.pm line 1327.
+20201230:130615 WARN  p=9492 Odd number of elements in anonymous hash at C:/Perl64/site/lib/Crawl/Feed.pm line 1327.
+20201230:130615 INFO  p=9492 Crawl Failed
+20201230:130615 INFO  p=9492 Parser runtime(DD:HH::MM:SS)      : 00:00:00:31
